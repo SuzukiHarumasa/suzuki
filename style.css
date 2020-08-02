@@ -1,0 +1,13 @@
+.title {
+    background-color: green;
+    box-shadow: 7px 8px 6px 4px black;
+    text-shadow: 0px 0px black;
+}
+
+.subTitle {
+    color: green;
+}
+
+a:hover {
+    color: coral;
+}
